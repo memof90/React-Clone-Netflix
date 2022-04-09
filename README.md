@@ -24,4 +24,4 @@ This project is a simplified front-end clone of Netflix. It was created with Rea
 ![](https://github.com/memof90/screenProjects/blob/master/Netflix-clone/Captura%20de%20Pantalla%202022-04-09%20a%20la(s)%204.22.39%20p.%C2%A0m..png?raw=true)
 
 ## Demo
-[Star Wars](https://tourmaline-meringue-9923e0.netlify.app)
+[Netflix](https://tourmaline-meringue-9923e0.netlify.app)
